@@ -1,0 +1,2 @@
+# ReactJS-Assignment--Muhammad-Arsal-Ikram-
+The task is to integrate the google map API, the user should be able to interact with the map in the following ways:  User should be able to see his/her current location pinned on Maps.  User can get longitude &amp;amp; latitude of any point on Map by dragging the pin location.  User can see the Nearby schools of any pin location on the Map.  User should be able to see the school name as a popup over the school pin.
